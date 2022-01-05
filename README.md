@@ -16,7 +16,7 @@ Edit secrets environment variables
 sudo secret env
 ```
 
-Copy single environment varibales into clipboard
+Put an environment varibale value into clipboard
 
 ```shell
 sudo secret xclip
